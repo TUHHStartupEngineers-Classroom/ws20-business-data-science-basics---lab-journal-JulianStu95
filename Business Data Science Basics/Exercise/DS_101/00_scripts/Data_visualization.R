@@ -1361,7 +1361,7 @@ group_by(countriesAndTerritories) %>%
 
     map_covid_final_tbl %>% 
       ggplot(aes(map_id = region)) +
-      geom_map(aes(fill = Mortality_Rate), map = world) +
+      geom_map(aes(fill = Mortality_Rate), map = world, color = "grey", size = 0.1) +
       expand_limits(x = map_covid_final_tbl$long, y = map_covid_final_tbl$lat) +
       scale_fill_continuous(limits = c(0, 0.15), breaks = c(0, 0.03, 0.06, 0.09, 0.12, 0.15)) +
       scale_fill_gradient( low = "red",
