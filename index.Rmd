@@ -19,4 +19,4 @@ This is a template example for lab journaling. Students in the data science cour
 
 3. See the [links page](https://tuhhstartupengineers.github.io/lab_journal_website/links.html) for lots of helpful links on learning R.
 
-4. Change everything to make it your own.
+4. Change everything to make it your own. Julian Stuwe

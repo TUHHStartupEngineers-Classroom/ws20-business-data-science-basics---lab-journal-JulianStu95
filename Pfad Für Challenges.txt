@@ -1,0 +1,35 @@
+Challenge 2:
+
+Datei ist in Dokument "sales_analysis_Eigen"
+
+Link: https://github.com/TUHHStartupEngineers/ws20-business-data-science-basics---lab-journal-JulianStu95/tree/master/Business%20Data%20Science%20Basics/data-science/DS_101/01_getting_started
+
+
+-------------------------------
+
+
+Challenge 3:
+
+Datei ist in Dokument "Data Acquisition_Eigen.R"
+
+Link: https://github.com/TUHHStartupEngineers/ws20-business-data-science-basics---lab-journal-JulianStu95/tree/master/Business%20Data%20Science%20Basics/Exercise/DS_101/00_scripts
+
+
+-------------------------------
+
+
+Challenge 4:
+
+Datei ist in Dokument "Data_wrangling_Eigen.R"
+
+Link: https://github.com/TUHHStartupEngineers/ws20-business-data-science-basics---lab-journal-JulianStu95/tree/master/Business%20Data%20Science%20Basics/Exercise/DS_101/00_scripts
+
+
+-------------------------------
+
+
+Challenge 5:
+
+Datei ist in Dokument "Data_visualization.R"
+
+Link: https://github.com/TUHHStartupEngineers/ws20-business-data-science-basics---lab-journal-JulianStu95/tree/master/Business%20Data%20Science%20Basics/Exercise/DS_101/00_scripts
